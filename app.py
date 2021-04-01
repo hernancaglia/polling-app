@@ -1,5 +1,7 @@
+# adding this line
+
 import os
-import psycopg2
+import psycopg2  # modifying this one
 from psycopg2.errors import DivisionByZero
 from dotenv import load_dotenv
 import database
